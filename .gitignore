@@ -1,7 +1,7 @@
 .DS_Store
 
 
-logs/
+logs/*
 !logs/.gitkeep
 
 npm-debug.log*
